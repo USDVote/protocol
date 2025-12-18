@@ -10,7 +10,7 @@ $USDV is designed to cut through spam, algorithms, and low-cost signaling by mak
 
 ## Core Idea
 
-> **Money should be able to speak without being risked or locked up.**
+> **Money should be able to speak.**
 
 $USDV holders allocate portions of their balance to topics they care about. These allocations represent real influence, backed by real dollars, and update automatically as balances move.
 
