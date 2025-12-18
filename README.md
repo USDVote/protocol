@@ -59,7 +59,7 @@ Votes represent **explicit conviction**.
 
 ---
 
-### Over-Allocation Resolution (LIFO)
+### Over-Allocation Resolution (FIFO)
 
 If a new vote causes total allocation to exceed 100%, the system resolves the excess automatically using a **First-In-First-Out (FIFO)** process.
 
