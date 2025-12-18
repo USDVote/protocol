@@ -61,9 +61,9 @@ Votes represent **explicit conviction**.
 
 ### Over-Allocation Resolution (LIFO)
 
-If a new vote causes total allocation to exceed 100%, the system resolves the excess automatically using a **Last-In-First-Out (LIFO)** process.
+If a new vote causes total allocation to exceed 100%, the system resolves the excess automatically using a **First-In-First-Out (FIFO)** process.
 
-Votes are processed from **most recent to oldest** until the excess is removed:
+Votes are processed from **oldest to most recent** until the excess is removed:
 
 1. **Reduction (preferred)**  
    Reduce the vote just enough to eliminate the excess, but never below 5%.
