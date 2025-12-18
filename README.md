@@ -2,7 +2,7 @@
 
 $USD Vote ($USDV) is a **stablecoin-native coordination primitive** that turns dollars into durable, on-chain signals.
 
-Each $USDV token is fully backed 1:1 by a stable asset (e.g. USDC) and remains freely transferable at all times. $USDV does **not** earn yield, require staking, or lock funds. Instead, it introduces a new non-financial property to money: the ability to express **scarce, sustained conviction**.
+Each $USDV token issued is backed 1:1 by a stable asset ($USDC) and remains freely transferable at all times. $USDV does **not** earn yield, require staking, or lock funds. Instead, it introduces a new non-financial property to money: the ability to express **scarce, sustained conviction**.
 
 $USDV is designed to cut through spam, algorithms, and low-cost signaling by making influence explicit, bounded, and economically meaningful.
 
